@@ -3,13 +3,11 @@ The recipe repository from Ruby Habits #2
 
 ___
 
-##First Task: *Add a recipe to this repository*
+###First Task: *Add a recipe to this repository*
 
-###Steps:
+####Steps:
 
-1. **Clone this repository:** *in the terminal* `git clone git@github.com:RubyHabits/recipes.git recipes`
-
-..* This creates a folder on your computer called recipes
+1. **Clone this repository:** *in the terminal* `git clone git@github.com:RubyHabits/recipes.git recipes` *This creates a folder on your computer called recipes*
 
 2. **Pull:** *in the terminal, in your recipes folder* `git pull` *Don't forget to go into your recipes folder first! Hint: cd recipes on your terminal*
 
